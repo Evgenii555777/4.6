@@ -1,0 +1,3 @@
+[submodule "recipes-frontend"]
+	path = recipes-frontend
+	url = https://github.com/Evgenii555777/4.6/recipes_backend/recipes-frontend
